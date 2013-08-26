@@ -1,0 +1,3 @@
+first do a clone https://github.com/miheer/anagram_checker.git
+then cd anagram_checker
+and run ruby anagram.rb
